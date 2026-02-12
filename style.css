@@ -15,8 +15,7 @@
 }
 
 body {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    /* "Open Sans", Tahoma, sans-serif; */
+    font-family: "Open Sans", Tahoma, sans-serif; 
     line-height: 1.6;
     color: var(--text-main);
     background-color: var(--bg-light);
